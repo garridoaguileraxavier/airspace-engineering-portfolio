@@ -14,8 +14,9 @@ Aerospace Engineering student (Airport specialization) focused on technical mana
 - Regulatory compliance studies
 - Simulation and modeling
 - Operational analysis
+- Theoretical Lectures and Notes
 
 ## Objective
-To develop technically robust and regulation-driven engineering solutions for airport environments.
+Take the chance to contribute sharing my premature knowledge to every one.
 
 
